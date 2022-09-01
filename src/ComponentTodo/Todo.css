@@ -1,0 +1,7 @@
+#flexBox{
+    margin-left: 40px;
+    display: flex;
+}
+#Completed{
+    text-decoration-line: line-through;
+}
